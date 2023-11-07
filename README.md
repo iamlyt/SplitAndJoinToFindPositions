@@ -11,6 +11,8 @@ Print the indexes of the found numbers.
 ## Personal note
 Project was completed via **HyperSkill** course track **"Intro to Python"**. 
 
+I am aware that there are several other ways to achieve the same results. However, within this timeframe and current learning situation, this is the method I chose to perform. 
+
 Link to profile: https://hyperskill.org/profile/284914294
 
 ## Contributing 
