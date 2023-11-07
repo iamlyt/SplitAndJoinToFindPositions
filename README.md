@@ -7,6 +7,7 @@ Print the indexes of the found numbers.
 
 ## Topics covered
 - split() and join()
+- lists
 
 ## Personal note
 
