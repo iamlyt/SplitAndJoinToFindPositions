@@ -9,9 +9,10 @@ Print the indexes of the found numbers.
 - split() and join()
 
 ## Personal note
-Project was completed via **HyperSkill** course track **"Intro to Python"**. 
 
-I am aware that there are several other ways to achieve the same results. However, within this timeframe and current learning situation, this is the method I chose to perform. 
+*"I am aware that there are several other ways to achieve the same results. However, within this timeframe and current learning situation, this is the method I chose to perform."* - Loi
+
+Project was completed via **HyperSkill** course track **"Intro to Python"**. 
 
 Link to profile: https://hyperskill.org/profile/284914294
 
